@@ -1,0 +1,8 @@
+torch
+graph_tools
+visdom==0.1.8.9
+networkx==2.5.1
+Levenshtein==0.12.0
+gensim==3.8.1
+nltk==3.6.2
+sklearn
